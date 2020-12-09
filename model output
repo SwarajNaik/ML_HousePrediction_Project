@@ -1,0 +1,19 @@
+1. LinearRegression:
+    Mean:  5.055212187964498
+    Standard divation:  0.7453041469728199
+
+2. DecisionTreeRegressor:
+    Mean:  4.788095842452084
+    Standard divation:  0.8080799105067918
+
+3. RandomForestRegressor:
+    Mean:  3.3341672089738665
+    Standard divation:  0.41714160714565085
+
+4. Lasso:
+    Mean:  5.513352848836287
+    Standard divation:  0.9094993481835
+
+5. Support Vector machine
+    Mean:  5.815597150347221
+    Standard divation:  1.219174022546592
